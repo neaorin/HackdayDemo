@@ -15,6 +15,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackdayDemo.Windows", "Hack
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackdayDemo", "HackdayDemo\HackdayDemo\HackdayDemo.csproj", "{BC4BD84F-8FF6-4959-A0D4-AE37CB50838E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{487FA40B-B61D-45EE-9B43-2F9887A68D69}"
+	ProjectSection(SolutionItems) = preProject
+		Enel HackDay - Sorin Peste.pptx = Enel HackDay - Sorin Peste.pptx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
